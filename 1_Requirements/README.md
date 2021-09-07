@@ -1,44 +1,44 @@
 #quiz 
 
-#Introduction
+#Introduction:
 
-quiz is a simple application using c programming language.The quiz is based on c language .Any user can take quiz by entering the name of the user.After entering the details like name,the user allowed to take the quiz.The quiz contains total 10 questions .User has to complete all the 10 questions in order to pass the quiz.It is complied in Visual Studio code using GCC compiler.
+This quiz is a simple application using c programming language.The quiz is based on c language .Any user can take quiz by entering the name of the user.After entering the details like name,the user allowed to take the quiz.The quiz contains total 10 questions .User has to complete all the 10 questions in order to pass the quiz.It is complied in Visual Studio code using GCC compiler.
 
-##   Features
+##   objective
 
-The Key features of quiz are:
-1.Participate in quiz
-2.View the result
-3.Exit
+The main objective of this project are:
+1.To record correct answers entered by the user
+2.To perform operations like start quiz,display result
 
-
-##  Language   &   IDE
-
-1.C
-2.Visual studio Code
 
 ## SWOT Analysis:
-Taking quiz-User can the quiz by entering his details
-View result-User can view the result after quiz completion
+![SWOT Analysis drawio]
 
 
+4 W's and 1 H
+Who
+Anyone who are interested  basics concepts in C can play the game to relax.
 
-##   High Level Requirements:
-*******Welcome to Quiz Game*******
-Enter your name:
-Here are some rules of this Game.
-1. You can choose any option.
-2. You need to answer 10 question
-3. Every question is 10 number
-4.Total number is 100
-5. We decide you win the quiz or not
-Press (Y) for start quiz otherwise press (N)
+What
+This project is mainly about developing a game which makes help us get more knowledge on c concepts
 
-##  Low Level Requirements:
+When
+The students are encouraged to think more about basics. Which can help them in learning C language for there future.
 
-Congrats! kutty You are win the quiz.
-you got 60 numbers.
-your 6 Question in correct.
+Why
+As this project uses C programming language it can be easy to understand the logic.
 
+How
+Implemented using Functions , condtional statements and other functionalities of C.
+
+Basic requirements that very essential are:
+
+1.Operating System: Windows, Linux or any other operating system
+
+2.Front end tool: Visual Studio Code
+
+3.Programming language used: C
+
+4.gcc compiler with a good system.
 
 
