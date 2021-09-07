@@ -15,7 +15,7 @@ The main objective of this project are:
 ![SWOT Analysis drawio]
 
 
-4 W's and 1 H
+##4 W's and 1 H
 Who
 Anyone who are interested  basics concepts in C can play the game to relax.
 
@@ -31,7 +31,7 @@ As this project uses C programming language it can be easy to understand the log
 How
 Implemented using Functions , condtional statements and other functionalities of C.
 
-Basic requirements that very essential are:
+##Basic requirements that very essential are:
 
 1.Operating System: Windows, Linux or any other operating system
 
